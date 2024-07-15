@@ -32,14 +32,10 @@ Ensure you have the following software installed:
    ```sh
    ros2 launch self_driving_car_pkg world_gazebo.launch.py
 
-
-
 2. **Run the Autonomous Node:**
 
    ```sh
    ros2 run self_driving_car_pkg computer_vision_node
-
-
 
 ## Results
 * **Car**
