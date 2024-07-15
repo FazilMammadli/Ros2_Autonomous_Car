@@ -25,18 +25,6 @@ Ensure you have the following software installed:
 - **OpenCV 4.2**
 - **TensorFlow 2.14**
 
-### Usage
-
-1. **Launch the Gazebo Simulation:**
-
-   ```sh
-   ros2 launch self_driving_car_pkg world_gazebo.launch.py
-
-2. **Run the Autonomous Node:**
-
-   ```sh
-   ros2 run self_driving_car_pkg computer_vision_node
-
 ## Results
 * **Car**
   -  ![alt text](https://github.com/FazilMammadli/Ros2_Autonomous_Car/blob/master/results/the_car.gif)
@@ -50,3 +38,18 @@ Ensure you have the following software installed:
 
 * **Lane Detection**
   -  ![alt text](https://github.com/FazilMammadli/Ros2_Autonomous_Car/blob/master/results/lane_detection.gif)
+ 
+
+
+### Usage
+
+1. **Launch the Gazebo Simulation:**
+
+   ```sh
+   ros2 launch self_driving_car_pkg world_gazebo.launch.py
+
+2. **Run the Autonomous Node:**
+
+   ```sh
+   ros2 run self_driving_car_pkg computer_vision_node
+
