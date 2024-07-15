@@ -1,0 +1,9 @@
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/uninstall.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/self_driving_car_pkg_models_uninstall.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/test.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/edit_cache.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/rebuild_cache.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/list_install_components.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/install.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/install/local.dir
+/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models/CMakeFiles/install/strip.dir

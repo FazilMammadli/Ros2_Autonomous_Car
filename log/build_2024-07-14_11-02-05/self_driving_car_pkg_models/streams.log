@@ -1,0 +1,136 @@
+[0.599s] Invoking command in '/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/self_driving_car_pkg_models -DCMAKE_INSTALL_PREFIX=/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models
+[1.657s] -- The C compiler identification is GNU 11.4.0
+[1.970s] -- The CXX compiler identification is GNU 11.4.0
+[2.060s] -- Detecting C compiler ABI info
+[2.264s] -- Detecting C compiler ABI info - done
+[2.275s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.276s] -- Detecting C compile features
+[2.300s] -- Detecting C compile features - done
+[2.307s] -- Detecting CXX compiler ABI info
+[2.402s] -- Detecting CXX compiler ABI info - done
+[2.410s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.410s] -- Detecting CXX compile features
+[2.411s] -- Detecting CXX compile features - done
+[2.690s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.237s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.868s] -- Configuring done
+[3.871s] -- Generating done
+[3.872s] -- Build files have been written to: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models
+[3.877s] Invoked command in '/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/self_driving_car_pkg_models -DCMAKE_INSTALL_PREFIX=/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models
+[3.880s] Invoking command in '/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models -- -j8 -l8
+[4.104s] Invoked command in '/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models -- -j8 -l8
+[4.208s] Invoking command in '/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models
+[4.224s] -- Install configuration: ""
+[4.224s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models
+[4.225s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop
+[4.225s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/model.sdf
+[4.225s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/meshes
+[4.225s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/meshes/sign_board.mtl
+[4.225s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/meshes/sign_stand.mtl
+[4.225s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/model.config
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/materials
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/materials/scripts
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/materials/scripts/sign_board_stop.material
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/materials/textures
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_stop/materials/textures/stop.png
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/model.sdf
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/meshes
+[4.226s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/meshes/sign_board.mtl
+[4.227s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/meshes/sign_stand.mtl
+[4.227s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/model.config
+[4.227s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials
+[4.227s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/scripts
+[4.227s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/scripts/sign_board_90.material
+[4.227s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/textures
+[4.227s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/textures/turn.png
+[4.228s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/textures/60.png
+[4.228s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/textures/90.png
+[4.228s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/textures/stop.png
+[4.228s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_90/materials/textures/30.png
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/model.sdf
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/meshes
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/meshes/sign_board.mtl
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/meshes/sign_stand.mtl
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/model.config
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/materials
+[4.229s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/materials/scripts
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/materials/scripts/sign_board_turn.material
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/materials/textures
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_turn/materials/textures/sign_board_turn.png
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_red
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_red/model.sdf
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_red/model.config
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/model.sdf
+[4.230s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/meshes
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/meshes/sign_board.mtl
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/meshes/sign_stand.mtl
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/model.config
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/materials
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/materials/scripts
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/materials/scripts/sign_board_30.material
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/materials/textures
+[4.231s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_30/materials/textures/30.png
+[4.232s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60
+[4.232s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/model.sdf
+[4.232s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/meshes
+[4.232s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/meshes/sign_board.mtl
+[4.232s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/meshes/sign_stand.mtl
+[4.232s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/model.config
+[4.232s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/materials
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/materials/scripts
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/materials/scripts/sign_board_60.material
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/materials/textures
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/sign_board_60/materials/textures/60.png
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_yellow
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_yellow/model.sdf
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_yellow/model.config
+[4.233s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/traffic_stand
+[4.234s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/traffic_stand/model.sdf
+[4.234s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/traffic_stand/meshes
+[4.234s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/traffic_stand/meshes/traffic_stand.dae
+[4.234s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/traffic_stand/model.config
+[4.234s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid
+[4.234s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/model.sdf
+[4.234s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/meshes
+[4.235s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/meshes/Hybrid.mtl
+[4.235s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/model.config
+[4.235s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/materials
+[4.235s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/materials/textures
+[4.235s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/materials/textures/Hybrid.png
+[4.235s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/materials/textures/Hybrid_Interior.png
+[4.236s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/prius_hybrid/materials/textures/Wheels3.png
+[4.237s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track
+[4.237s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/model.sdf
+[4.237s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/meshes
+[4.237s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/meshes/chowk.dae
+[4.237s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/meshes/complete_circuit.dae
+[4.237s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/model.config
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/materials
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/materials/scripts
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/materials/scripts/road.material
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/materials/scripts/chowk.material
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/materials/textures
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/materials/textures/road.png
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/track/materials/textures/chowk.png
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_green
+[4.238s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_green/model.sdf
+[4.239s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/models/light_green/model.config
+[4.239s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/ament_index/resource_index/package_run_dependencies/self_driving_car_pkg_models
+[4.239s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/ament_index/resource_index/parent_prefix_path/self_driving_car_pkg_models
+[4.239s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/environment/ament_prefix_path.sh
+[4.240s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/environment/ament_prefix_path.dsv
+[4.240s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/environment/path.sh
+[4.240s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/environment/path.dsv
+[4.241s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/local_setup.bash
+[4.241s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/local_setup.sh
+[4.241s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/local_setup.zsh
+[4.241s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/local_setup.dsv
+[4.241s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/package.dsv
+[4.242s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/ament_index/resource_index/packages/self_driving_car_pkg_models
+[4.242s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/cmake/self_driving_car_pkg_modelsConfig.cmake
+[4.242s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/cmake/self_driving_car_pkg_modelsConfig-version.cmake
+[4.242s] -- Installing: /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/install/self_driving_car_pkg_models/share/self_driving_car_pkg_models/package.xml
+[4.245s] Invoked command in '/home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/fazil/ROS2-Self-Driving-Car-AI-using-OpenCV/build/self_driving_car_pkg_models
